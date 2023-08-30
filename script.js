@@ -1,0 +1,1 @@
+window.addEventListener("load",function(){let e=document.querySelector(".loader-wrapper");setTimeout(function(){e.style.display="none"},2e3)});
